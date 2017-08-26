@@ -1,0 +1,60 @@
+body{
+  background: #303030;
+}
+button{
+  background: #303030;
+  border: none;
+  color: #4dffff;
+  font-size: 48px;
+  text-decoration: none;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  vertical-align: top;
+}
+p{
+  color: #4dffff;
+  font-size: 48px;
+  display: inline-block;
+  height: 10px;
+  width: 320px;
+  padding-left: 400px;
+}
+.bigBox{
+  width: 320px;
+  height: 320px;
+  margin: 0 auto;
+  padding-top: 10px;
+  display: inline-block;
+}
+.right{
+  border-right: 3px solid #4dffff;
+}
+.bottom{
+  border-bottom: 3px solid #4dffff;
+}
+.all{
+  border: 3px solid #4dffff;
+  display: inline-block;
+}
+.pad{
+  padding-top: 50px;
+  padding-left: 100px;
+}
+.floatL{
+  width: 35%;
+  float: left;
+  display: inline-block;
+}
+.floatR{
+  width: 65%;
+  float: right;
+  display: inline-block;
+}
+.selected{
+  background: #4dffff;
+  color: #303030;
+}
+.left{
+  padding-left: 85px;
+}
